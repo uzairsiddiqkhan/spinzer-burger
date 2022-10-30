@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable-v24_googleplus.png.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable-v24/googleplus.png"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable_googeplusbackgroud.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable/googeplusbackgroud.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable-v24_dinner.png.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable-v24/dinner.png"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable_fbbackgroud.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable/fbbackgroud.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable-v24_spinzertext.gif.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable-v24/spinzertext.gif"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable_avatar.png.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable/avatar.png"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable_btn_activity1.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable/btn_activity1.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable-v24_background.jpeg.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable-v24/background.jpeg"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/layout_activity_sign_in.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable-v24_googleplusnext.png.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable-v24/googleplusnext.png"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable_textviews.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable/textviews.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/layout_activity_sign_up.xml.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/merged_res/debug/drawable-v24_facebook.png.flat",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/drawable-v24/facebook.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_in.xml",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/home/uzair/AndroidStudioProjects/SpinzerBurger/app/src/main/res/layout/activity_sign_up.xml"
+    }
+]
